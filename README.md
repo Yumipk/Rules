@@ -1,4 +1,4 @@
-优先使用并配置1emby文件。 emby文件list格式仅供参考。
+优先使用并配置1emby文件, domain类规则集合内容通配应遵守clash 通配符.
 
 虚空终端 Docs 手册
 
