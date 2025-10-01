@@ -1,12 +1,12 @@
 payload:
   # 直连
   - g.emby.to
-  - "+.bangumi.ca"
+  - "+.bangumi.ca"  #nya
   - "+.acgrip.com"
-  - hxd.as174.de
-  - saodu.asia
-  - media.nijigem.by
-  - ipfs-gateway.qzy.xyz
-  - mperformance.mebimmer.de
-  - "+.nomaba.top"
-  - onatoshi.114514.quest
+  - hxd.as174.de  #hxd
+  - saodu.asia  #saodu
+  - media.nijigem.by  #erchiyuan
+  - ipfs-gateway.qzy.xyz  #6pan
+  - mperformance.mebimmer.de  #me
+  - "+.nomaba.top"  #nomana
+  - onatoshi.114514.quest  #doubon
