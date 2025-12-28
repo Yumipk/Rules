@@ -2,7 +2,7 @@ payload:
   # 直连
   - iizone.ggff.net  #vercel
   - bonaa.ggff.net  #netlify
-  - danmu.ludaa.ggff.net  #clawclou
+  - "+.ludaa.ggff.net"  #clawclou
   - logdanmu.kongcheng666.dpdns.org
   - logvar-danmu.rinrin.top
   - bmlab.top
