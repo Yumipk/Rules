@@ -6,4 +6,5 @@ openai.com#Openai
 mfa.gov.ua#乌克兰外交部
 cf.130519.xyz#KR
 cf.090227.xyz#SG
-sub.danfeng.eu.org#TW
+www.ntu.edu.sg#新加坡南洋科技大学
+saas.sin.fan#saaa
