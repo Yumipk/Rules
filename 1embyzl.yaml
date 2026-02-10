@@ -1,10 +1,10 @@
 payload:
   # 直连
-  - g.emby.to
+  - g.emby.to #G
+  - gtest.emby.to
   - "+.bangumi.ca"  #nya
   - "+.acgrip.com"
-  - saodu.work  #saodu
-  - saodu.asia  #saodu
+  - saodu6.cn  #saodu
   - media.nijigem.by  #erchiyuan
   - '+.cdn.bgp.yt'  #erchiyuan
   - ipfs-gateway.qzy.xyz  #6pan
