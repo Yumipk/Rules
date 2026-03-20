@@ -1,6 +1,8 @@
 payload:
   # 直连
   - g.emby.to #G
+  - "+.zdz.plus"  #cuvee
+  - c3.bjdekk.cn
   - gtest.emby.to
   - "+.bangumi.ca"  #nya
   - "+.acgrip.com"
