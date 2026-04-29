@@ -1,9 +1,10 @@
 payload:
   # 直连
   - g.emby.to #G
-  - "+.zdz.plus"  #cuvee
+  - "+.zdz.plus"  #t+
   - c3.bjdekk.cn
-  - gtest.emby.to
+  - gtest.emby.to  #gtest
+  - c.emby.to
   - "+.bangumi.ca"  #nya
   - "+.acgrip.com"
   - saodu6.cn  #saodu
