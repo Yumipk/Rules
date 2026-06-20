@@ -12,7 +12,7 @@ payload:
   - emby.heisi.org  #youqibing
   - emby666.alien666.de5.net
   - playz.mjji.de  #playz
-  - emby.hohai.eu.org  #hohai
+  - '+.hohai.eu.org'  #hohai
   - pub1.emby.wtf  #zdz
   - pub2.emby.wtf
   - pub3.emby.wtf
@@ -37,4 +37,4 @@ payload:
   - bb.111848.xyz  #bubing
   - file.covh.eu.org  #bubing
   - yty675hj45.nms267.top  #qingning
-  - lunarisvault.com 
+  - lunarisvault.com   #lunarisvault
