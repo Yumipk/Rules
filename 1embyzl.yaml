@@ -1,6 +1,7 @@
 payload:
   # 直连
   - g.emby.to #G
+  - g.emby.gg
   - hxd.as174.de  #hxd
   - "+.zdz.plus"  #t+
   - c3.bjdekk.cn
