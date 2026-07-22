@@ -32,7 +32,7 @@ payload:
   - emby.nas.edu.kg  #CookieEmby
   - aguiaeh-my.sharepoint.com 
   - gm.yezi.my  #yezi 3geyue
-  - embyty.entertang.work  #ETFLIX
+  - '+.entertang.work'  #ETFLIX
   - '+.etflix.lol'
   - media-qhxn-fj-home.qh6oss.ctyunxs.cn
   - jdgb1-my.sharepoint.com  #HGEmby
