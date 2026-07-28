@@ -1,12 +1,12 @@
 payload:
   # 直连
-  - g.emby.to #G
-  - g.emby.gg
+#  - g.emby.to #G
+#  - g.emby.gg
 #  - hxd.as174.de  #hxd
+#  - gtest.emby.to  #gtest
+#  - c.emby.to
   - "+.zdz.plus"  #t+
   - c3.bjdekk.cn
-  - gtest.emby.to  #gtest
-  - c.emby.to
   - "+.bangumi.ca"  #nya
   - "+.acgrip.com"
   - media.nijigem.by  #erchiyuan
