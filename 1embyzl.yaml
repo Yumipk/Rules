@@ -13,25 +13,14 @@ payload:
   - '+.cdn.bgp.yt'  #erchiyuan
   - cf.imetyou.top  #paul
   - '+.qzy.xyz'  #6pan
-  - emos.dolby.dpdns.org  #emos联通软银
   - '+.movier.ink'  #emos移动
-  - emos.us.ci  #emos
-  - emos.de5.net  #emos
-  - clun.top  #emos
-  - emos.078899.xyz  #emos
-  - emby.gcc.cx  #zero
-  - emby.3338966.xyz  #zero
-  - ccdv.cc.cd  #dada
-  - chi.us.ci  #dada
-  - emby.yusen6.ccwu.cc  #yusen
-  - emby.staryuki.com  #staryuki
-  - bb.111848.xyz  #bubing
-  - bb.emby.edu.kg  #bubing
-  - file.covh.eu.org  #bubing
-  - test.inemby.us.ci  #nox
+  - emby.staryuki.com  #edge
+#  - bb.111848.xyz  #bubing
+#  - bb.emby.edu.kg  #bubing
+#  - file.covh.eu.org  #bubing
   - lunarisvault.com  #Lunaris
-  - emby.yusen.cc.cd  #yusen
+  - '+.yusen.cc.cd'  #yuchu
+  - '+.yusen6.ccwu.cc'  
   - embya.yusen.cyou
   - emby.yusen.us.ci
-  - aaa.yusen6.ccwu.cc
   - '+.echos.cc.cd'  #zhousanwan
