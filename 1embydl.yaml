@@ -21,8 +21,8 @@ payload:
   - '+.hohai.eu.org'  #hohai
   - 115.hohai.eu.org
   - lite.cn2gias.uk  #sntp
-#  - cf.sfcj.org  #feiyue
-#  - media.emby.pro
+  - cf.sfcj.org  #feiyue
+  - media.emby.pro
 #  - micro.cr18.eu.org  #juanmaoshu
   - emby.nas.edu.kg  #CookieEmby
   - aguiaeh-my.sharepoint.com 
