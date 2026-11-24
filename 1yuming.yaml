@@ -4,13 +4,13 @@ payload:
   - '+.aespa.indevs.in'
   - '+.afterschool.de5.net'
   - '+.apink.de5.net'
-#  - '+.billlie.indevs.in'
+#  - '+.billlie.indevs.in'  #反代1
   - '+.bona.de5.net'
   - '+.bonaa.ggff.net'
   - '+.chaeyoung.de5.net'
   - '+.chengxiao.de5.net'
   - '+.chengxiao.eu.cc'
-#  - '+.chengxiao.qzz.io'
+#  - '+.chengxiao.qzz.io'  #反代2
   - '+.dawon.de5.net'
   - '+.dayoung.de5.net'
   - '+.edgetunnel.qzz.io'
@@ -51,7 +51,7 @@ payload:
   - '+.wjsn.gv.uy'
   - '+.wjsn.indevs.in'
   - '+.wjsn.jp.eu.org'
-#  - '+.wjsn.qzz.io'
+#  - '+.wjsn.qzz.io'  #反代3
   - '+.xuanyi.de5.net'
   - '+.yeonjung.de5.net'
   - '+.yeoreum.de5.net'
