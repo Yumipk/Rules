@@ -11,7 +11,7 @@ payload:
   - '+.chengxiao.de5.net'
   - '+.chengxiao.eu.cc'
 #  - '+.chengxiao.qzz.io'  #反代2
-  - '+.dawon.de5.net'
+#  - '+.dawon.de5.net'     #弹幕
   - '+.dayoung.de5.net'
   - '+.edgetunnel.qzz.io'
   - '+.eunseo.de5.net'
