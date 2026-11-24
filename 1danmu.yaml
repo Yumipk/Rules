@@ -1,5 +1,5 @@
 payload:
-  # 直连
+  # 直连/代理
   - dawon.de5.net  #vercel
   - addm.6yhy.top  #a
   - danmaku.868161.xyz #afu
